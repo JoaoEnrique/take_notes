@@ -6,6 +6,9 @@
 
 ![image](https://github.com/JoaoEnrique/take_notes/assets/87030375/4bc373eb-9cd3-4ee4-aa80-9ab893b87ec3)
 
+![image](https://github.com/JoaoEnrique/take_notes/assets/87030375/b50323a3-80b4-4b14-a84a-d207ecae6cfe)
+
+
 <p>Criar turma</p>
 
 ![image](https://github.com/JoaoEnrique/take_notes/assets/87030375/f11152bf-d614-48ce-a111-71c09f42aaa7)
@@ -14,10 +17,14 @@
 
 ![image](https://github.com/JoaoEnrique/take_notes/assets/87030375/bd9a8f88-157b-4ed2-b4d1-800e0e1c737f)
 
+![image](https://github.com/JoaoEnrique/take_notes/assets/87030375/ce129ba6-7ef6-489b-ab18-a37000c5ce97)
+
+
 <p>Listar admins</p>
 
 ![image](https://github.com/JoaoEnrique/take_notes/assets/87030375/727c979e-1389-4601-9d85-27cfc6f2e133)
 
+![image](https://github.com/JoaoEnrique/take_notes/assets/87030375/58cc27b0-0099-47af-bef0-5b9394a9cc6b)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
