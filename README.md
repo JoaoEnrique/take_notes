@@ -1,3 +1,24 @@
+<h1>Anotações online</h1>
+<p>Site pessoal em laravel para anotações do conteudo passado na Fatec. Tirei o Google Clasrrom como inspiração para o designer</p>
+<p>É possivel adicionar turmas e adicionar mensagens e arquivos na turma.</p>
+
+<p>Listagem de turmas</p>
+
+![image](https://github.com/JoaoEnrique/take_notes/assets/87030375/4bc373eb-9cd3-4ee4-aa80-9ab893b87ec3)
+
+<p>Criar turma</p>
+
+![image](https://github.com/JoaoEnrique/take_notes/assets/87030375/f11152bf-d614-48ce-a111-71c09f42aaa7)
+
+<p>Turma selecionada</p>
+
+![image](https://github.com/JoaoEnrique/take_notes/assets/87030375/bd9a8f88-157b-4ed2-b4d1-800e0e1c737f)
+
+<p>Listar admins</p>
+
+![image](https://github.com/JoaoEnrique/take_notes/assets/87030375/727c979e-1389-4601-9d85-27cfc6f2e133)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
